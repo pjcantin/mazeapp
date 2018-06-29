@@ -1,0 +1,7602 @@
+{
+  "row0": {
+    "col0": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row1": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row2": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row3": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row4": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row5": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row6": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row7": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row8": {
+    "col0": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row9": {
+    "col0": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row10": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row11": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row12": {
+    "col0": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row13": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row14": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row15": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row16": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row17": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row18": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row19": {
+    "col0": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row20": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row21": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row22": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row23": {
+    "col0": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row24": {
+    "col0": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row25": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    }
+  },
+  "row26": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row27": {
+    "col0": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row28": {
+    "col0": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row29": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row30": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row31": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row32": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row33": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row34": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row35": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row36": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row37": {
+    "col0": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row38": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row39": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row40": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row41": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row42": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row43": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row44": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row45": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row46": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row47": {
+    "col0": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": true
+    }
+  },
+  "row48": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col1": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col4": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col5": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col9": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col10": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col11": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col13": {
+      "L": false,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col15": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col17": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col18": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col20": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col21": {
+      "L": true,
+      "T": true,
+      "R": false,
+      "B": false
+    },
+    "col22": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": false,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": true,
+      "R": false,
+      "B": true
+    }
+  },
+  "row49": {
+    "col0": {
+      "L": false,
+      "T": true,
+      "R": true,
+      "B": false
+    },
+    "col1": {
+      "L": false,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col2": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col3": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col4": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col5": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col6": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col7": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col8": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col9": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col10": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col11": {
+      "L": false,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col12": {
+      "L": true,
+      "T": true,
+      "R": true,
+      "B": false
+    },
+    "col13": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col14": {
+      "L": false,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col15": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col16": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col17": {
+      "L": false,
+      "T": true,
+      "R": true,
+      "B": false
+    },
+    "col18": {
+      "L": false,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col19": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col20": {
+      "L": false,
+      "T": true,
+      "R": true,
+      "B": false
+    },
+    "col21": {
+      "L": false,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col22": {
+      "L": false,
+      "T": true,
+      "R": true,
+      "B": false
+    },
+    "col23": {
+      "L": true,
+      "T": false,
+      "R": true,
+      "B": false
+    },
+    "col24": {
+      "L": false,
+      "T": false,
+      "R": true,
+      "B": true
+    }
+  }
+}
