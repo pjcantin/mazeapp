@@ -16,13 +16,9 @@ I. Setup
 
 II. TODO (?)
 
-	1) Need to fix updating 'hidden' squares when the user moves a space (comment out first line of UpdateHiddenSquares() to test).
-		a. Not enough squares are set visible
-		b. Incorrect squares are set visible
-		c. Borders won't show up properly
-	2) Would like to find out how to read keystroke input without using an HTML <input> tag and having user click within.
-	3) Lots of code cleanup
-	4) Nice to Haves
+	1) Would like to find out how to read keystroke input without using an HTML <input> tag and having user click within.
+	2) Lots of code cleanup
+	3) Nice to Haves
 		a. Checkbox to show/hide exit
 		b. Checkboxes to set different difficulty levels
 			b1. Easy - just show maze as-is

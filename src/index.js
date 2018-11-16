@@ -48,7 +48,7 @@ class Board extends React.Component {
 	this.xExit = 24;
 	this.yExit = 0;
 	
-	this.torchRadius = 5;
+	this.torchRadius = 3;
 
     this.state = {
 	  x: this.x,
@@ -59,17 +59,17 @@ class Board extends React.Component {
 	this.setState({
 	  x: this.x,
 	  y: this.y,
-      squares: this.UpdateHiddenSquares(this.state.squares),
+      squares: this.UpdateHiddenSquares(this.state.squares, this.state.x, this.state.y),
     });
 	
 	this.state.squares[this.x][this.y].content = '\u26F9';
 	
   }
   
-  UpdateHiddenSquares(squares) {
+  UpdateHiddenSquares(squares, newX, newY) {
 
     //TODO: return original square array for now; need to find out what is wrong with this method
-	return squares;
+	//return squares;
 	
 	const updatedSquares = squares.slice();
 	  
@@ -86,29 +86,25 @@ class Board extends React.Component {
 	  updatedSquares[this.xExit][this.yExit].isVisible = true;
 	  
 	  //make current position visible
-	  updatedSquares[this.state.x][this.state.y].isVisible = true;
+	  //updatedSquares[26][24].isVisible = true;
 	  
 	  //make squares visible that are within the torch radius
-	  for (var i = 1; i <= this.torchRadius; i++)
+	  for (var i = -(this.torchRadius); i <= this.torchRadius; i++)
 	  {
-		  for (var j = 1; j <= this.torchRadius; j++)
+		  for (var j = -(this.torchRadius); j <= this.torchRadius; j++)
 		  {
-			  if (this.state.x - i > 0) {
-				  updatedSquares[this.state.x - i][this.state.y].isVisible = true;
-			  }
-			  if (this.state.x + i < this.width) {
-				  updatedSquares[this.state.x + i][this.state.y].isVisible = true;
-			  }
-			  
-			  if (this.state.y - j > 0) {
-				  updatedSquares[this.state.x][this.state.y - j].isVisible = true;
-			  }
-			  
-			  if (this.state.y + j < this.height) {
-				  updatedSquares[this.state.x][this.state.y + j].isVisible = true;
+			  if (newX + i >= 0
+					&& newX + i < this.width
+					&& newY + j >= 0
+					&& newY + j < this.height) {
+				  updatedSquares[newX + i][newY + j].isVisible = true;
 			  }
 		  }
 	  }
+	  
+	  /* updatedSquares[25][23].isVisible = true;
+	  updatedSquares[24][24].isVisible = true;
+	  updatedSquares[24][23].isVisible = true; */
 	  
 	  return updatedSquares;
   }
@@ -158,16 +154,16 @@ class Board extends React.Component {
 			break;	
 	  }
 	  
-	  this.setState({
+	  /* this.setState({
 		  x: newX,
 		  y: newY,
 		  squares: squares,
-	  });
+	  }); */
 	  
 	  this.setState({
 		x: newX,
 		y: newY,
-		squares: this.UpdateHiddenSquares(this.state.squares),
+		squares: this.UpdateHiddenSquares(squares, newX, newY),
 	  });
   }
   
